@@ -7,3 +7,9 @@ h1{
 p{
     color: blue;
 }
+
+body{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
